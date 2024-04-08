@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_calculator">CalculatorActivity</string>
+    <string name="title_activity_intent2">IntentActivity2</string>
+    <string name="title_activity_simple_list_view">SimpleListViewActivity</string>
+    <string name="title_activity_simplelistview">SimplelistviewActivity</string>
+    <string name="title_activity_custom_list">CustomListActivity</string>
+    <string name="title_activity_recyclerview">RecyclerviewActivity</string>
+    <string name="title_activity_custom_list2">CustomListActivity2</string>
+    <string name="title_activity_caard">CaardActivity</string>
+    <string name="title_activity_recyclerview2">RecyclerviewActivity2</string>
+    <string name="title_activity_customlist">CustomlistActivity</string>
+</resources>
